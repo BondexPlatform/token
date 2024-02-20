@@ -1,0 +1,12 @@
+[
+    {
+        "inputs": [],
+        "name": "BaseERC20InvalidInitialSupplyHolder",
+        "type": "error"
+    },
+    {
+        "inputs": [],
+        "name": "BaseERC20ZeroLockedSupply",
+        "type": "error"
+    }
+]
