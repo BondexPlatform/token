@@ -1,0 +1,10 @@
+{
+    "name": "Bondex Governance Token",
+    "symbol": "BDXN",
+    "decimals": 18,
+    "initialSupply": "1000000000",
+    "initialSupplyHolder": "0xEb1D1BE2FE7291E1Ae0404FbF0405618E20eBE37",
+    "admin": "0xEb1D1BE2FE7291E1Ae0404FbF0405618E20eBE37",
+    "adminChangeDelaySeconds": 259200,
+    "upgrader": "0xEb1D1BE2FE7291E1Ae0404FbF0405618E20eBE37"
+}
